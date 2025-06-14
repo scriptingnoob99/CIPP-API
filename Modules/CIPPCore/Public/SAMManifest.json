@@ -136,10 +136,6 @@
           "type": "Role"
         },
         {
-          "id": "b633e1c5-b582-4048-a93e-9f11b44c7e96",
-          "type": "Role"
-        },
-        {
           "id": "6931bccd-447a-43d1-b442-00a195474933",
           "type": "Role"
         },
@@ -562,6 +558,14 @@
         {
           "id": "b7887744-6746-4312-813d-72daeaee7e2d",
           "type": "Scope"
+        },
+        {
+          "id": "346c19ff-3fb2-4e81-87a0-bac9e33990c1",
+          "type": "Scope"
+        },
+        {
+          "id": "2cb92fee-97a3-4034-8702-24a6f5d0d1e9",
+          "type": "Role"
         }
       ]
     },
